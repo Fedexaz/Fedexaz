@@ -1,16 +1,18 @@
-### Hi there 👋
+### ¡Hola! :wave:
 
-<!--
-**Fedexaz/Fedexaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Federico Lahoz, tengo 26 años y soy de Argentina 🇦🇷.
 
-Here are some ideas to get you started:
+Me inicié en este mundo porque me divierte mucho programar 💻, sin dudas es mi vocación, busco nuevos desafíos para formarme como un buen programador 🧑‍💻:muscle:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+#### Actualmente estoy estudiando la carrera de Full Stack Developer en #SoyHenry 💻
+### ¡Tengo conocimientos en ReactJS, Redux, NodeJS, Express, MySQL, MongoDB, PostgreSQL para el diseño web!
+### También tengo conocimientos en PHP, C#, JAVA, JAVASCRIPT, COMMONJS
+### Utilizo Unity 3D para el desarrollo de contenido digital interactivo :desktop_computer:
+
+:warning: **¡Puedes ver mis proyectos en la pestaña repositorios!** :warning:
+
+Aquí está mi [LinkedIn](https://www.linkedin.com/in/fedexaz/) :link:
+
+Aquí está mi [Correo](mailto:fedexaz3@gmail.com) :email:
