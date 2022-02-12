@@ -7,7 +7,7 @@ Me inicié en este mundo porque me divierte mucho programar 💻, sin dudas es m
 #
 
 #### Actualmente estoy estudiando la carrera de Full Stack Developer en #SoyHenry 💻
-### ¡Tengo conocimientos en ReactJS, Redux, NodeJS, Express, MySQL, MongoDB, PostgreSQL para el diseño web!
+### ¡Tengo conocimientos en ReactJS, Redux, NodeJS, Express, MySQL, Sequelize y PostgreSQL para el diseño web!
 ### También tengo conocimientos en PHP, C#, JAVA, JAVASCRIPT, COMMONJS
 ### Utilizo Unity 3D para el desarrollo de contenido digital interactivo :desktop_computer:
 
