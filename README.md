@@ -6,6 +6,8 @@ Me inicié en este mundo porque me divierte mucho programar 💻, sin dudas es m
 
 #
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Fedexaz?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 :warning: **¡Puedes ver mis proyectos en la pestaña repositorios!** :warning:
 
 Aquí está mi [LinkedIn](https://www.linkedin.com/in/fedexaz/) :link:
