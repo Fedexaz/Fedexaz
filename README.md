@@ -1,6 +1,6 @@
 ### ¡Hola! :wave:
 
-Me llamo Federico Lahoz, tengo 28 años y soy de Argentina 🇦🇷.
+Me llamo Federico Lahoz, tengo 30 años y soy de Argentina 🇦🇷.
 
 Me inicié en este mundo porque me divierte mucho programar 💻, sin dudas es mi vocación, busco nuevos desafíos para formarme como un buen programador 🧑‍💻
 
